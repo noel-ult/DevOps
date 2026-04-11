@@ -1,0 +1,12 @@
+{
+  "name": "devops-backend",
+  "version": "1.0.0",
+  "description": "Simple Express backend for DevOps project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
