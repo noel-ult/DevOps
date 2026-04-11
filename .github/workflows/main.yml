@@ -29,15 +29,6 @@ jobs:
           sleep 3
           curl -f http://localhost:5000/health || exit 1
           echo "Server is running successfully"
-name: Node.js CI/CD
-
-on:
-  push:
-    branches:
-      - main
-
-jobs:
-  build-and-test:
     runs-on: ubuntu-latest
 
     steps:
