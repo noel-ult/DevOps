@@ -17,3 +17,7 @@ The default URL is http://localhost:5000. `PORT` overrides the port. Tasks disap
 The current branch contains no Dockerfile. The workflow verifies `/health`; it does not deploy the application. The root test script is a placeholder.
 
 This project is intended for learning and portfolio demonstration.
+
+<!-- developer-handbook-20261028 -->
+[Developer guide](docs/PROJECT_GUIDE.md) · [Source reference](docs/REFERENCE.md) · [Verification and operations](docs/OPERATIONS.md)
+<!-- /developer-handbook-20261028 -->

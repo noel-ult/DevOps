@@ -1,7 +1,6 @@
 # DevOps source reference
 
-
-Source reviewed: [`13027cc2a745`](https://github.com/noel-ult/DevOps/commit/13027cc2a745b56833a61c69359dcd1beedbd7a3).
+Source reviewed: [`09a5ae2a6d28`](https://github.com/noel-ult/DevOps/commit/09a5ae2a6d28eff974e0e6d2ecf8fafa5cac36a5).
 
 This reference records the checked-in source, scripts, configuration names, and route declarations. It is a navigation aid; service availability and successful test execution require separate verification.
 
@@ -55,7 +54,10 @@ Paths are **as declared in each source file**. Router/blueprint mount prefixes f
 
 Historical plans/reports describe their own revision; use current source when they disagree.
 
+- [CONTRIBUTING.md](../CONTRIBUTING.md)
 - [README.md](../README.md)
+- [docs/PROJECT_GUIDE.md](../docs/PROJECT_GUIDE.md)
+- [docs/REFERENCE.md](../docs/REFERENCE.md)
 
 ## Source and configuration map
 
